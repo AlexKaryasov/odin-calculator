@@ -33,6 +33,11 @@
     background-color: darkgoldenrod;
 }
 
+.result-button {
+    color: white;
+    background-color: darkgoldenrod;
+}
+
 .clear-button {
     background-color: darksalmon;
     width: 2fr;
